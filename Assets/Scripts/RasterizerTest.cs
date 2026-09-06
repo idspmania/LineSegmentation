@@ -6,9 +6,7 @@ public class RasterizerTest : MonoBehaviour {
 
 	public float forwardOffset;
 	public float rayLength;
-	public bool useType2;
 	public bool checkSubBlocks;
-	public bool useType1 = true;
 	private List<Vector2Int> points;
 	private List<Vector2Int> subPoints;
 	private Transform cubeParent0;
