@@ -8,6 +8,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Dd]ocs/
 
 #/[Aa]ssets/Plugins/Android/
 
@@ -114,3 +115,7 @@ Thumbs.db
 
 # Local repo git config
 .gitconfig
+
+CLAUDE.md
+AGENTS.md
+
