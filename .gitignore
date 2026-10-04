@@ -116,6 +116,6 @@ Thumbs.db
 # Local repo git config
 .gitconfig
 
-./CLAUDE.md
-./AGENTS.md
+/CLAUDE.md
+/AGENTS.md
 
